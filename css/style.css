@@ -1,0 +1,13 @@
+.caros-section{
+    height: 500px;
+}
+.carousel-item img{
+    height: 70vh;
+    object-fit: cover;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
